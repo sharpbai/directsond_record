@@ -1,4 +1,4 @@
 directsond_record
 =================
 
-A C# test program using driectsond recording audio
+A C# test program using DirectSound recording audio
